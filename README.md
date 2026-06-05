@@ -7,6 +7,13 @@
 
 ---
 
+<br>
+
+🌐 Live Demo →
+📄 Full Report →
+📊 Dataset →
+
+<br>
 📥 **[Download Deception Intelligence Report (PDF)](./Deception_report.pdf)**
 
 </div>
