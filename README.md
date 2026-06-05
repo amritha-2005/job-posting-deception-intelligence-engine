@@ -1,16 +1,20 @@
+---
+
 <div align="center">
 
-🔍 Job Posting Deception Intelligence Engine
-
-The AI that doesn’t just detect fake jobs— it identifies how a posting may be deceptive.
-
-<br>
-
-🌐 Live Demo →
-📄 Full Report →
-📊 Dataset →
+<h2 style="color: #A259FF; font-weight: bold; font-size: 2em; margin-bottom: 0px;">🔮 Job Posting Deception Intelligence Engine</h2>
+<p style="color: #EC4899; font-style: italic; font-size: 1.1em; margin-top: 5px;">Multi-Label AI Classification System</p>
 
 <br>
+
+![Python](https://img.shields.io/badge/Python-1E1035?style=for-the-badge&logo=python&logoColor=A259FF)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1E1035?style=for-the-badge&logo=scikit-learn&logoColor=EC4899)
+![Streamlit](https://img.shields.io/badge/Streamlit-1E1035?style=for-the-badge&logo=streamlit&logoColor=C084FC)
+
+---
+
+📥 **[Download Deception Intelligence Report (PDF)](./Deception_report.pdf)**
+
 </div>
 
 ⸻
