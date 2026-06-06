@@ -3,8 +3,9 @@
 <h1 style="color: #A259FF; font-weight: bold; font-size: 2.2em; border-bottom: none; margin-bottom: 0px; padding-bottom: 0px;">🔮 Job Posting Deception Intelligence Engine</h1>
 <p style="color: #EC4899; font-style: italic; font-size: 1.2em; margin-top: 5px; margin-bottom: 25px;">Multi-Label AI Classification System</p>
 
-![Python](https://img.shields.io/badge/Python-1E1035?style=for-the-badge&logo=python&logoColor=A259FF) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1E1035?style=for-the-badge&logo=scikit-learn&logoColor=EC4899) ![Streamlit](https://img.shields.io/badge/Streamlit-1E1035?style=for-the-badge&logo=streamlit&logoColor=C084FC)
-
+![Python](https://img.shields.io/badge/Python-3A2E6B?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-5B4BA7?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-7C6FE8?style=for-the-badge&logo=python&logoColor=white)
 ---
 
 <br>
