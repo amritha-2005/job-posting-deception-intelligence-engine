@@ -13,7 +13,7 @@
   <p align="center">
 • 🌐 <a href="https://amritha-2005.github.io/job-posting-deception-intelligence-engine/">Live Demo</a> &nbsp;•&nbsp; 
   📄 <a href="outputs/deception_Intelligence_report.pdf">Full Report (PDF)</a> &nbsp;•&nbsp; 
-  👁️‍🗨️ <a href="https://github.com/amritha-2005/job-posting-deception-intelligence-engine/blob/e99e17406612e784ebd7909c103a4b1cc0863b46/deception_dashboard.png">Dashboard Visualization</a> &nbsp;•&nbsp;
+  👁️‍🗨️ <a href="https://github.com/amritha-2005/job-posting-deception-intelligence-engine/blob/3f6171cb97accc3ca286e5ecf5ebd8e03f6f024b/outputs/deception_report.pdf">Dashboard Visualization</a> &nbsp;•&nbsp;
   📊 <a href="https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction">Dataset</a>
 </p>
 </p>
@@ -92,7 +92,7 @@ Dashboard + Company Risk Analysis
 <div align="center">
 
 
-Built with Python, Scikit-learn, Pandas, Streamlit, and Plotly
+Built with Python, Matplolib, & Numpy
 
 
 </div
