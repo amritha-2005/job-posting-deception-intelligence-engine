@@ -10,7 +10,7 @@
 <br>
 <p align="center">
   <p align="center">
-  🌐 <a href="https://amritha-2005.github.io/job-posting-deception-intelligence-engine/">Live Demo</a> &nbsp;•&nbsp; 
+• 🌐 <a href="https://amritha-2005.github.io/job-posting-deception-intelligence-engine/">Live Demo</a> &nbsp;•&nbsp; 
   📄 <a href="outputs/deception_Intelligence_report.pdf">Full Report (PDF)</a> &nbsp;•&nbsp; 
   👁️‍🗨️ <a href="https://github.com/amritha-2005/job-posting-deception-intelligence engine/blob/main/outputs/deception_dashboard.png">Dashboard Visualization</a> &nbsp;•&nbsp;
   📊 <a href="https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction">Dataset</a>
