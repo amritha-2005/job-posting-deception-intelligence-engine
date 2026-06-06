@@ -3,9 +3,16 @@
 <h1 style="color: #A259FF; font-weight: bold; font-size: 2.2em; border-bottom: none; margin-bottom: 0px; padding-bottom: 0px;">🔮 Job Posting Deception Intelligence Engine</h1>
 <p style="color: #EC4899; font-style: italic; font-size: 1.2em; margin-top: 5px; margin-bottom: 25px;">Multi-Label AI Classification System</p>
 
-![Python](https://img.shields.io/badge/Python-3A2E6B?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-5B4BA7?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-7C6FE8?style=for-the-badge&logo=python&logoColor=white)
+## 🛠️ Tech Stack & Dependencies
+
+* ![Python](https://img.shields.io/badge/Python-3A2E6B?style=for-the-badge&logo=python&logoColor=white) — The core programming language powering the entire intelligence system.
+* ![NumPy](https://img.shields.io/badge/NumPy-5B4BA7?style=for-the-badge&logo=numpy&logoColor=white) — Handles high-performance mathematical computing and matrix operations for the model arrays.
+* ![Matplotlib](https://img.shields.io/badge/Matplotlib-7C6FE8?style=for-the-badge&logo=python&logoColor=white) — Generates the custom, elite iridescent-themed analytical dashboard graphics.
+* ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-8E5CC9?style=for-the-badge&logo=scikit-learn&logoColor=white) — The primary machine learning framework driving the multi-label ensemble classification engine.
+* ![Pandas](https://img.shields.io/badge/Pandas-A36FD4?style=for-the-badge&logo=pandas&logoColor=white) — Coordinates structured data ingestion, manipulation, and feature engineering workflows.
+* ![Chart.js](https://img.shields.io/badge/Chart.js-B884E2?style=for-the-badge&logo=chart.js&logoColor=white) — Powers the smooth, interactive data visualizations showcased on the live web application.
+* ![Seaborn](https://img.shields.io/badge/Seaborn-C993F0?style=for-the-badge&logo=python&logoColor=white) — Used to evaluate and double-check statistical data distributions during the initial exploratory analysis.
+* ![Joblib](https://img.shields.io/badge/Joblib-DBA3FA?style=for-the-badge&logo=python&logoColor=white) — Optimizes the pipeline by saving, serializing, and loading the trained ensemble models efficiently.
 ---
 
 <br>
@@ -92,7 +99,7 @@ Dashboard + Company Risk Analysis
 <div align="center">
 
 
-Built with Python, Matplolib, & Numpy
+Built with ·Python · scikit-learn · pandas · numpy · matplotlib · seaborn · joblib · Chart.js · HTML/CSS/JS · Kaggle Dataset
 
 
 </div
