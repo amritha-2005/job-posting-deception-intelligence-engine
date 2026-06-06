@@ -8,13 +8,12 @@
 ---
 
 <br>
-
-🌐 Live Demo →
-📄 Full Report →
-📊 Dataset →
-
+<p align="center">
+  🌐 <a href="https://amritha-2005.github.io/job-posting-deception-intelligence-engine/">Live Demo</a> &nbsp;•&nbsp; 
+  📄 <a href="YOUR_PDF_LINK_HERE">Full Report</a> &nbsp;•&nbsp; 
+  📊 <a href="YOUR_DATASET_LINK_HERE">Dataset</a>
+</p>
 <br>
-📥 **[Download Deception Intelligence Report (PDF)](./Deception_report.pdf)**
 
 </div>
 
