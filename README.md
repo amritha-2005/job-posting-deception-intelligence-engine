@@ -10,8 +10,9 @@
 <br>
 <p align="center">
   🌐 <a href="https://amritha-2005.github.io/job-posting-deception-intelligence-engine/">Live Demo</a> &nbsp;•&nbsp; 
-  📄 <a href="https://outputs/deception_Intelligence_report.pdf">Full Report</a> &nbsp;•&nbsp; 
-  📊 <a href="https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction">Dataset</a>
+  📄 <a href="YOUR_PDF_LINK_HERE">Full Report</a> &nbsp;•&nbsp; 
+  📊 <a href="YOUR_DATASET_LINK_HERE">Dataset</a>
+</p>
 </p>
 <br>
 
